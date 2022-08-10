@@ -31,6 +31,8 @@ const Login = () => {
         <div className="login-container">
             <div id="login">
                 <Title text='Bienvenido'/>
+
+                <img src="https://pbs.twimg.com/profile_images/999420356585705472/9Q7akHEo_400x400.jpg" title="avatar" alt="" />
                 
                 <Input 
                 attribute={{

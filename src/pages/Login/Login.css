@@ -74,3 +74,9 @@
     background-color: #0f4c75;
     color:#bbe1fa;
 }
+
+img[title="avatar"]{
+	border-radius:60%;
+	width:120px;
+    margin-bottom: 5%;
+}
