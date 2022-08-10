@@ -1,0 +1,29 @@
+#login input {
+    font-family: 'Overpass', sans-serif;
+    font-size: 100%;
+    color: #2c1b1d;    
+    display: block;
+    width: 100%;    
+    margin-bottom: 10px;
+    padding: 5px 5px 5px 10px;    
+    box-sizing: border-box;    
+    border: none;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;  
+}
+
+.regular-style::placeholder {
+    font-family: 'Overpass', sans-serif;
+    color: #8f8b8b;
+}
+
+.input-error {
+    border:1px solid red;
+    color: red;
+    background: rgb(238, 144, 144);
+}
+
+.input-error::placeholder {
+    color: red;    
+}

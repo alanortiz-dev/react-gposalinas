@@ -1,0 +1,21 @@
+.label-error {
+    font-size: 15px;
+    color: red;
+    background-color: rgb(224, 204, 204);
+    width: fit-content;
+    height: fit-content;
+    padding: 2px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.label-alert {
+    font-size: 18px;
+    color: red;
+    background-color: rgb(224, 204, 204);
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;   
+}
