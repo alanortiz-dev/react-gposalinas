@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: 'Overpass', sans-serif;
+  font-weight: normal;
+  font-size: 100%; 
+  margin: 0;
+  background-color: #14f5b3;
+  background-image: linear-gradient(43deg, #14f5b3 0%, #797af7 46%, #FFCC70 100%);
+}
